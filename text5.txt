@@ -1,1 +1,2 @@
 "text has been updated second time"
+"new addition"
