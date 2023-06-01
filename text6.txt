@@ -1,1 +1,4 @@
 "this is test6.txt"
+"1 addition"
+"2 addition"
+"3 addition"
